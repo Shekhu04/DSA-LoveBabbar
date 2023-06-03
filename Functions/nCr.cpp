@@ -25,6 +25,7 @@ int main(){
 
     cout << nCr(n,r);
     cout << endl;
+    cout << endl;
 
     return 0;
 
